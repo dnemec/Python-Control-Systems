@@ -30,4 +30,8 @@ U ovom radu obraditi ću:
 * Routhov kriterij stabilnosti.
 * Područja stabilnosti sustava.
   
-Sam postupak analize biti će pojašnjen u koracima.
+Sam postupak analize biti će pojašnjen u koracima u vježbama:
+* rjesavanje_jednadzbi.ipynb
+* koeficijenti_prijenosne_funkcije.ipynb
+* bode_polezero.ipynb
+* routh.ipynb
