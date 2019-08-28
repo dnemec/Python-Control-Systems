@@ -1,4 +1,5 @@
 # Analiza LTI sustava uz pomoć Pythona
+## Projektni rad iz Matematike ET CO (Tehnički Fakultet Rijeka, dr.sc. Ivan Dražić)
 
 Kao pomoć u analizi stabilnosti LTI sustava može poslužiti Python sa Sympy, Python Control Systems Library i Matplotlib knjižnicama.  
 
